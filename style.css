@@ -34,7 +34,7 @@ p:has(a) {
 .footer{
     text-align: center;
     margin: 0%;
-    /* position: fixed; */
+    position: fixed;
 }
 
 h3{
