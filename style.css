@@ -1,0 +1,72 @@
+/* common style */
+body {
+    background-color: darkcyan;
+}
+
+.oren {
+    background-color: orange;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+/* title style */
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0%;
+}
+
+/* sidebar style */
+center{
+    margin: 0%;
+}
+
+p:has(a) {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+/* footer style */
+.footer{
+    text-align: center;
+    margin: 0%;
+    /* position: fixed; */
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 0%;
+}
+
+ul{
+    margin: 0%;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 0%;
+}
+
+table{
+    width: 100%;
+}
+
+.foto img{
+    width: 200px;
+}
+
+.foto p{
+    margin: 0%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.tengah {
+    padding: 10%;
+}
